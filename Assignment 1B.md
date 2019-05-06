@@ -1,4 +1,4 @@
-Channels:
+## Channels:
 A channel is a container of a specific kind of information(in context of computer vision). It is a bag of similar features.
 An image can be seen as a combination of various types of simple or complex features, for example, edges/gradients, textures, patterns, part of objects, objects etc. A channel can be seen as a group of similar features within the image. eg: one channel for horizontal edges, another for vertical etc. Another important thing to notice, since a channel is a group of similar features of a single image, an image can be divided into multiple channels and when we combine all channels of an image, it will result in the original image reformation.
 
